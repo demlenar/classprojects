@@ -6,7 +6,7 @@ These projects were created in April 2022.
 
 ### Description
 Roshambo: A rock paper scissors program where the computer has diffrent play strategies against the user. 
-<br> Adventure Game: A simple and fun text Adventure game
+<br> Adventure Game: A simple and fun text Adventure game leading through a fanstastic story.
 
 ### Input Guidelines
 
