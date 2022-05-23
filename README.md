@@ -8,10 +8,6 @@ These projects were created in April 2022.
 Roshambo: A rock paper scissors program where the computer has diffrent play strategies against the user. 
 <br> Adventure Game: A simple and fun text Adventure game leading through a fanstastic story.
 
-### Input Guidelines
-
-User input is limited to the months of January though June, and the 3 locations available are Chicago, New York City, and Washington.
-
 ### Data files
 - rps.py (Roshambo)
 - adv.py (Adventure Game)
