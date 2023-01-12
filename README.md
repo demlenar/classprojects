@@ -14,3 +14,7 @@ Roshambo: A rock paper scissors program where the computer has different play st
 
 ### Credits
 These projects were completed for the [Udacity](https://www.udacity.com/) Nanodegree: Introduction to Programming.
+
+### TODO
+- Add more projects from other Udacity Courses
+
